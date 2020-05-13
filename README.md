@@ -3,9 +3,7 @@ The **file neuralnet.py** contains well documented code for implementing deep ne
 
 Prerequisites
 
-numpy: pip3 install numpy
-
-dill: pip3 install dill
-
-python-mnist: pip3 install python-mnist
+* numpy: pip3 install numpy
+* dill: pip3 install dill
+* python-mnist: pip3 install python-mnist
 
